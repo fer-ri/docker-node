@@ -1,6 +1,6 @@
 # NodeJS
 
-Docker image based on `node:8.9-alpine` and adds yarn:1.3.2 and gulp.
+Docker image based on `node:8.9-alpine` and add global gulp.
 
 ## Usage
 
